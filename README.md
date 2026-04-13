@@ -65,5 +65,10 @@ I would like to thank **ApexPlanet Software Pvt. Ltd.** for providing this oppor
 
 ---
 
+## 🔗 Connect with Me
+
+- LinkedIn: (https://www.linkedin.com/posts/gouthami-borkute-772344397_apexplanet-dataanalytics-dashboard-ugcPost-7449422136676352000-8pyl?utm_source=share&utm_medium=member_desktop&rcm=ACoAAGFnd0YBl-_rpp-Sx_TmSMAvBfI5i_FF-D8)
+
+---
 
 ⭐ If you find this project useful, feel free to star the repository!
